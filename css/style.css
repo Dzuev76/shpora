@@ -1,0 +1,42 @@
+body {
+  padding-top: 70px;
+  background-image: url(../img/bg.jpg);
+  background-position: center;
+  background-attachment: fixed;
+}
+.header{
+  background-color:#A6FFFF;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #291EFF;
+}
+.nav > li > a{
+  padding: 15px 40px;
+}
+.mystyle{
+  border: 1px solid black;
+  border-radius: 20px;
+
+  margin-top: 50px;
+  text-align: center;
+  padding-top: 10px;
+  background-color: #FFFFFF;
+
+}
+.block_content{
+  height: 3910px;
+}
+.button{
+  height: 150px;
+  border: 1px solid black;
+  border-radius: 20px;
+  text-align: center;
+  margin: 50px 0;
+  background-color: #FFFFFF;
+  padding-top: 35px;
+}
+.footer {
+  background-color: #FFFFFF;
+  text-align: center;
+  padding-top: 10px;
+}
